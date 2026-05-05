@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/petarkrvavac/Carlytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=petarkrvavac&repo=Carlytics" />
+    <img src="https://raw.githubusercontent.com/petarkrvavac/Carlytics/refs/heads/main/public/carlytics-logo.png" />
   </a>
 </p>
 
