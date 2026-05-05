@@ -70,4 +70,4 @@ I don’t just aim to make things work — I aim to understand why they work and
 
 ## 📫 Contact
 
-- LinkedIn: add-your-link
+- LinkedIn: [Petar Krvavac](https://www.linkedin.com/in/petar-krvavac-5084a7347/)
