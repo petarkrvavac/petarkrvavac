@@ -15,56 +15,71 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Petar
 
-🎓 Third-year Computer Science student at FSRE Mostar  
+🎓 Third-year Computer Science student at FSRE Mostar
+
+Through my studies, I’ve developed a structured way of thinking — especially when it comes to understanding problems before jumping into solutions.
+
+I’m interested in building systems that feel closer to real products than assignments.
+
+What I enjoy most is working on the structure behind applications — especially data models and how everything connects and behaves as a whole.
+
+I prefer building things properly and defining a clear approach, rather than rushing into quick fixes.
 
 ---
 
-## 🚀 Featured project
+## 🚀 What I'm working on
 
-### 🚗 Carlytics
+Most of my work revolves around:
+
+* designing structured data models
+* connecting different parts of a system into something consistent
+* turning ideas into systems that behave realistically over time
+
+You can find different projects on my profile that reflect this — some more complete, some more experimental.
+
+---
+
+## 🚗 Carlytics
 
 <p align="center">
   <a href="https://github.com/petarkrvavac/Carlytics">
-    <img src="https://raw.githubusercontent.com/petarkrvavac/Carlytics/refs/heads/main/public/carlytics-logo.png" />
+    <img src="https://raw.githubusercontent.com/petarkrvavac/Carlytics/refs/heads/main/public/carlytics-logo.png"  width="120" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
 </p>
 
 <p align="center">
   <i>Production-style system for managing vehicles, services, incidents and operational activity</i>
 </p>
 
----
+<br>
 
-## 🧠 About me
+Carlytics is built around real-world logic rather than just features.
 
-Through my studies, I’ve developed a structured way of thinking — especially when it comes to understanding problems before jumping into solutions.
-
-I prefer building things properly and defining a clear approach, rather than rushing into quick fixes.
-
-What I enjoy most is problem solving itself — breaking things down, understanding systems, and getting to solutions that actually make sense.
+* Focus on well-structured data and clear relationships
+* Designed to reflect how such a system would actually be used
+* Emphasis on behaviour and consistency, not just functionality
 
 ---
 
 ## 🧩 Approach
 
-I focus on understanding problems before implementing solutions.
+I don’t jump straight into implementation — I first focus on understanding the structure of the problem.
 
-I don’t just aim to make things work — I aim to understand why they work and how they behave in real-world systems.
+I usually start by thinking about:
+
+* what the data looks like
+* how different parts of the system relate to each other
+* how the system should behave over time
+
+Once that is clear, implementation becomes much more straightforward.
 
 ---
 
 ## 📌 Current focus
 
-- Backend development  
-- Database design (PostgreSQL)  
-- Real-world system design  
+* Backend development
+* Database design
+* Building systems that feel closer to real products than assignments
 
 ---
 
