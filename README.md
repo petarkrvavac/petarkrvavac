@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Petar
+# Hi, I'm Petar
 
 🎓 Third-year Computer Science student at FSRE Mostar
 
@@ -27,7 +27,7 @@ I prefer building things properly and defining a clear approach, rather than rus
 
 ---
 
-## 🚀 What I'm working on
+## What I'm working on
 
 Most of my work revolves around:
 
@@ -61,7 +61,7 @@ Carlytics is built around real-world logic rather than just features.
 
 ---
 
-## 🧩 Approach
+## Approach
 
 I don’t jump straight into implementation — I first focus on understanding the structure of the problem.
 
@@ -75,7 +75,7 @@ Once that is clear, implementation becomes much more straightforward.
 
 ---
 
-## 📌 Current focus
+## Current focus
 
 * Backend development
 * Database design
@@ -83,6 +83,6 @@ Once that is clear, implementation becomes much more straightforward.
 
 ---
 
-## 📫 Contact
+## Contact
 
 - LinkedIn: [Petar Krvavac](https://www.linkedin.com/in/petar-krvavac-5084a7347/)
